@@ -13,4 +13,4 @@ How to use
 
 With the Twig Renderer, you can just do this:
 
-	{{ C.Html5.inputField('email', 'order_notifications_email', order_notifications_email, {'class': 'input', 'required': 'required'}) }}
+	{{ C.Html5.inputField('email', 'emailaddress', emailaddress, {'class': 'input', 'required': 'required'}) }}
